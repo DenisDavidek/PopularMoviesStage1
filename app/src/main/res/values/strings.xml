@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Davidek_Popular_Movies_Stage1</string>
+    <string name="api_key">6b499f59a3a805c78db2a478d12884c7</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="no_internet_connection">There is no internet connection! Please connect your device to the Internet</string>
+    <string name="showing_popular_movies">Showing popular movies</string>
+    <string name="showing_top_rated_movies">Showing top rated movies</string>
+</resources>
