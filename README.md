@@ -1,6 +1,6 @@
 # PopularMoviesStage1
 Simple movie listing Android app allowing users to discover movies. This is  a Project 1 of Udacity's Android Developer Nanodegree.
-This app consits of 2 stages. You can find the second stage ![here]("https://github.com/DenisDavidek/PopularMoviesStage2").
+This app consits of 2 stages. You can find the second stage ![here]("https://github.com/DenisDavidek/PopularMoviesStage2") .
 
 **Features:**
 - Discover top rated and popular movies
