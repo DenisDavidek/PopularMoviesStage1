@@ -1,6 +1,6 @@
 # PopularMoviesStage1
 Simple movie listing Android app allowing users to discover movies. This is  a Project 1 of Udacity's Android Developer Nanodegree.
-This app consits of 2 stages. You can find the second stage ![here]("https://github.com/DenisDavidek/PopularMoviesStage2") .
+This app consits of 2 stages. You can find the second stage [here](https://github.com/DenisDavidek/PopularMoviesStage2).
 
 **Features:**
 - Discover top rated and popular movies
@@ -23,7 +23,7 @@ Clone or download this repository and follow requirements and API KEY sections t
 ## API KEY
 
 This app uses themoviedb.org API to get a releavant movie information and posters. 
-You must provide your own ![API Key]("https://www.themoviedb.org/documentation/api") in order to build the app.
+You must provide your own [API Key](https://www.themoviedb.org/documentation/api) in order to build the app.
 
 Create gradle.properties file and put your API key inside this file:
 
