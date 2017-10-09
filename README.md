@@ -12,8 +12,7 @@ This app consits of 2 stages. You can find the second stage [here](https://githu
 # Screenshots
 
 <img src="images/Projekt1-N5X_portrait.png" width="249"> </img> <img src="images/Projekt1-N5X_landscape.png" width="249"> </img>   <img src="images/Projekt1-N9_portrait.png" width="366"> </img>  
-  
-   <img src="images/Projekt1-N9_landscape.png" width="844"> </img>
+<img src="images/Projekt1-N9_landscape.png" width="844"> </img>
 
 # Developer Setup
 Clone or download this repository and follow requirements and API KEY sections to get a successful build of this app.
@@ -22,7 +21,6 @@ Clone or download this repository and follow requirements and API KEY sections t
  - Java 7
  - Latest version of Android Studio, Android Build Tools and Gradle
  
-
 ## API KEY
 
 This app uses themoviedb.org API to get a releavant movie information and posters. 
