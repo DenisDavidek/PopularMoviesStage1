@@ -2,9 +2,12 @@
 Simple movie listing Android app allowing users to discover movies. This is  a Project 1 of Udacity's Android Developer Nanodegree.
 This app consits of 2 stages. You can find the second stage [here](https://github.com/DenisDavidek/PopularMoviesStage2).
 
-**Features:**
+## Features
 - Discover top rated and popular movies
 - Basic UI optimizations for phones and tablets
+
+## Used Libraries inside this project
+- [Picasso](https://github.com/square/picasso)
 
 # Screenshots
 
@@ -30,3 +33,7 @@ Create gradle.properties file and put your API key inside this file:
 ```
 API_KEY="xYz123"
 ```
+
+# Author
+
+[Denis Dávidek](https://github.com/DenisDavidek)
